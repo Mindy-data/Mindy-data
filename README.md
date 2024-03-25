@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mindy-data
-- 👀 I’m interested in ... Learning
-- 🌱 I’m currently learning ... everything regarding Data Analytics
+- 👀 I’m interested in ... Machine Learning Applications 
+- 🌱 I’m currently learning ... Data Analytics and Visualization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
